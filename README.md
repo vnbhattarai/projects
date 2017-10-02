@@ -1,14 +1,14 @@
 # Projects 🎨
 
 -   [Completed](#completed-✅)
--   [Work in Progress](#work-in-progress-🚧)
+-   [Work in Progress](#work-in-progress-)
 
 # Completed ✅
 
 -   [Personal Blog](#personal-blog-✍)
--   [Catch of the Day](#catch-of-the-day-🐠)
--   [Movie Landing Page](#movie-landing-page-🎬)
--   [Firebase with React Router v4](#firebase-with-react-router-v4-🔥)
+-   [Catch of the Day](#catch-of-the-day-)
+-   [Movie Landing Page](#movie-landing-page-)
+-   [Firebase with React Router v4](#firebase-with-react-router-v4-)
 -   [Cloned and Followed Projects](#cloned-and-followed-projects)
 
 ## [Personal Blog ✍](https://vnbhattarai.github.io)
@@ -51,8 +51,8 @@ Repo to hold many projects which are basically cloned or modified only slightly 
 
 # Work in Progress 🚧
 
--   [99 Mapper](#99-mapper-🗺)
--   [HSL Route](#hsl-route-🚌)
+-   [99 Mapper](#99-mapper-)
+-   [HSL Route](#hsl-route-)
 
 ## [99 Mapper 🗺:](https://github.com/vnbhattarai/99mapper)
 
